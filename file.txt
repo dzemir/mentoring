@@ -1,2 +1,3 @@
 The first file update
-Change in master
+Update in file for conflict resolving
+Conflict was resolved
